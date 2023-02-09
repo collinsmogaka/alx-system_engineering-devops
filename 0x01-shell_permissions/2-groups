@@ -1,2 +1,3 @@
 #!/bin/bash
 /etc/group
+/etc/group/root
