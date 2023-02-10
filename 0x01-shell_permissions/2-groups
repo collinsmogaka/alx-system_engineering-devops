@@ -1,3 +1,2 @@
 #!/bin/bash
-groups
-groups/root
+group_list=$(groups $current_user)
