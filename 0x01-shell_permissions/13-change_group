@@ -1,2 +1,1 @@
-#!/bin/bash
-chgroup school hello
+chgrp school hello
